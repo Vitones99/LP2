@@ -1,0 +1,12 @@
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.pdb
+C:\Users\vitor\Desktop\FATEC\S2\LinguagemProgramação2\PVolume\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
